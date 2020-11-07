@@ -7,4 +7,4 @@ Ucze sie gita, mam na imie **Adrian**
 - c
 - d
 
- Tutaj bedzie obrazek
+ Tutaj bedzie obrazek 1
